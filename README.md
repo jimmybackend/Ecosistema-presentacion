@@ -1,0 +1,2 @@
+# Ecosistema-presentacion
+Presentación pública de Ecosistema Esforzados: plataforma modular para archivos, links inteligentes, landing pages, analytics, CRM, comunicación, automatización, reportes, seguridad e IA operativa, diseñada para empresas que buscan ordenar procesos digitales con control, trazabilidad y crecimiento.
