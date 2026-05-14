@@ -1,19 +1,30 @@
 # Contacto
 
-Para solicitar información, demo o colaboración sobre Ecosistema Esforzados, usar este archivo como plantilla.
+Para solicitar información, una demo o colaboración sobre **Ecosistema Esforzados**, puedes comunicarte con nosotros por los siguientes medios oficiales.
 
-## Datos sugeridos
+## Información de contacto
 
-- Nombre:
-- Empresa:
-- País:
-- Email:
-- Teléfono:
-- Interés principal:
-- Módulos de interés:
-- Comentarios:
+**Nombre de contacto:** A. Velasco  
+**Empresa:** Esforzados  
+**País:** México  
+**Horario de oficina:** lunes a viernes, de 9:00 a 17:00 hrs  
+**Correo:** soporte@esforzados.com  
+**Teléfono / WhatsApp Legal:** +52 55 864 58862  
 
-## Nota
+## Solicitar información o demo
 
-No publicar datos personales reales en repositorios públicos.  
-Si este repositorio es público, reemplazar esta sección por un correo o formulario oficial.
+Si deseas conocer más sobre **Ecosistema Esforzados**, envíanos un correo a:
+
+**soporte@esforzados.com**
+
+Incluye, si es posible, la siguiente información:
+
+```text
+Nombre:
+Empresa:
+País:
+Email:
+Teléfono:
+Interés principal:
+Módulos de interés:
+Comentarios:
