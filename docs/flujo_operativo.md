@@ -37,3 +37,10 @@ Campaña
 ## Resultado esperado
 
 La empresa puede ver qué campañas funcionan, qué leads llegan, qué acciones siguen y qué procesos pueden automatizarse.
+
+
+## Nota sobre estados operativos
+
+El flujo descrito representa la visión operativa objetivo. La ejecución real de cada etapa depende del estado documentado por capacidad: **Disponible**, **Parcial**, **Read-only**, **Dry-run**, **Controlled** o **Roadmap**.
+
+Referencia: [`docs/glosario_estados.md`](glosario_estados.md).

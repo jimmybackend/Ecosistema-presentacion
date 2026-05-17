@@ -30,14 +30,7 @@ Es un ecosistema modular orientado a centralizar procesos digitales que normalme
 
 ## Estado real del producto
 
-Para evitar sobrepromesas, los módulos y capacidades se leen con estos estados:
-
-- **Disponible**: capacidad operativa y utilizable dentro del alcance validado.
-- **Parcial**: funcionalidad incompleta; cubre sólo una parte del escenario final.
-- **Read-only**: permite consulta, sin escritura ni cambios persistentes.
-- **Dry-run**: simula ejecución sin impacto real en datos o integraciones.
-- **Controlled**: ejecución real sujeta a permisos, validaciones, flags y gobierno operativo.
-- **Roadmap**: diseño/planeación, sin disponibilidad confirmada para operación completa.
+Para evitar sobrepromesas, los módulos y capacidades se comunican con los estados definidos en [`docs/glosario_estados.md`](docs/glosario_estados.md): **Disponible**, **Parcial**, **Read-only**, **Dry-run**, **Controlled** y **Roadmap**.
 
 Esto aplica especialmente para módulos como **Billing**, **Integrations**, **Support**, **Privacy** y **Jobs/Workers**, que deben interpretarse con prudencia según su estado documentado.
 
@@ -45,7 +38,7 @@ Esto aplica especialmente para módulos como **Billing**, **Integrations**, **Su
 
 - Revisa la descripción funcional base en [`docs/modulos.md`](docs/modulos.md).
 - Revisa el comportamiento de proceso en [`docs/flujo_operativo.md`](docs/flujo_operativo.md).
-- Usa [`docs/faq.md`](docs/faq.md) para interpretar términos como *read-only*, *dry-run* y *controlled*.
+- Usa [`docs/glosario_estados.md`](docs/glosario_estados.md) como referencia principal de estados y [`docs/faq.md`](docs/faq.md) para preguntas frecuentes.
 - Contrasta con roadmap antes de asumir disponibilidad total.
 
 ## Índice de documentos públicos
@@ -53,6 +46,7 @@ Esto aplica especialmente para módulos como **Billing**, **Integrations**, **Su
 ### Documentos disponibles en este repositorio
 
 - Estado por módulo (resumen actual): **pendiente de publicación en** `docs/estado_modulos.md`.
+- Glosario de estados: [`docs/glosario_estados.md`](docs/glosario_estados.md).
 - Módulos: [`docs/modulos.md`](docs/modulos.md).
 - Flujo operativo: [`docs/flujo_operativo.md`](docs/flujo_operativo.md).
 - Diagramas (índice): **pendiente de publicación en** `docs/diagramas.md`.
