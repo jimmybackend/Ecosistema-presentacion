@@ -50,7 +50,7 @@ Esto aplica especialmente para módulos como **Billing**, **Integrations**, **Su
 - Glosario de estados: [`docs/glosario_estados.md`](docs/glosario_estados.md).
 - Módulos: [`docs/modulos.md`](docs/modulos.md).
 - Flujo operativo: [`docs/flujo_operativo.md`](docs/flujo_operativo.md).
-- Diagramas (índice): **pendiente de publicación en** `docs/diagramas.md`.
+- Diagramas: [`docs/diagramas.md`](docs/diagramas.md).
 - Preguntas frecuentes: [`docs/faq.md`](docs/faq.md).
 - Contacto: [`contacto.md`](contacto.md).
 - Política de contacto público: [`docs/politica_contacto_publico.md`](docs/politica_contacto_publico.md).
@@ -74,3 +74,9 @@ Este repositorio de presentación **no debe contener**:
 - datos personales o información interna sensible.
 
 Si detectas contenido sensible, repórtalo por los canales de [`contacto.md`](contacto.md).
+
+## Material visual
+
+- Diagramas base para demo: [`docs/diagramas.md`](docs/diagramas.md).
+- Reglas y estructura de assets: [`assets/README.md`](assets/README.md).
+- Fuentes editables de diagramas: [`assets/diagrams/README.md`](assets/diagrams/README.md).
