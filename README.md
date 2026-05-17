@@ -58,6 +58,7 @@ Esto aplica especialmente para módulos como **Billing**, **Integrations**, **Su
 
 - Visión general: [`docs/vision_general.md`](docs/vision_general.md).
 - Seguridad y privacidad: [`docs/seguridad_y_privacidad.md`](docs/seguridad_y_privacidad.md).
+- Revisión de seguridad pública: [`docs/revision_seguridad_publica.md`](docs/revision_seguridad_publica.md).
 - Roadmap: [`docs/roadmap.md`](docs/roadmap.md).
 - Material visual: [`docs/material_visual.md`](docs/material_visual.md).
 
