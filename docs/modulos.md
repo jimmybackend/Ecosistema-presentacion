@@ -75,3 +75,10 @@ Usa knowledge packs, propuestas IA, chat, aprobación humana y asistencia contro
 ## Go-live
 
 Agrupa checklist de producción, manual operativo, cockpit de preparación y onboarding de tenants.
+
+
+## Criterio de lectura de estados
+
+Para evitar contradicciones entre documentación comercial y técnica, cada módulo debe leerse usando exclusivamente estos estados: **Disponible**, **Parcial**, **Read-only**, **Dry-run**, **Controlled** y **Roadmap**.
+
+Referencia: [`docs/glosario_estados.md`](glosario_estados.md).

@@ -8,11 +8,18 @@ No. Este repositorio es informativo y comercial. No debe contener código produc
 
 El repositorio describe la visión completa del producto y su línea de desarrollo modular. Cada módulo puede tener distintos niveles de avance.
 
-## ¿Qué significa read-only, dry-run y controlled?
+## ¿Qué significan los estados públicos?
 
-Read-only consulta datos sin modificar.  
-Dry-run simula acciones sin escribir.  
-Controlled ejecuta acciones reales sólo con permisos, validaciones y flags activas.
+Los estados oficiales son: **Disponible**, **Parcial**, **Read-only**, **Dry-run**, **Controlled** y **Roadmap**.
+
+- **Disponible**: capacidad operativa en alcance validado.
+- **Parcial**: cobertura incompleta del escenario final.
+- **Read-only**: consulta sin escritura.
+- **Dry-run**: simulación sin impacto real.
+- **Controlled**: ejecución real con permisos, validaciones y flags.
+- **Roadmap**: en diseño o planeación, sin disponibilidad operativa confirmada.
+
+Referencia principal: [`docs/glosario_estados.md`](glosario_estados.md).
 
 ## ¿Es SaaS o sistema interno?
 
