@@ -52,6 +52,7 @@ Esto aplica especialmente para módulos como **Billing**, **Integrations**, **Su
 - Flujo operativo: [`docs/flujo_operativo.md`](docs/flujo_operativo.md).
 - Diagramas: [`docs/diagramas.md`](docs/diagramas.md).
 - Preguntas frecuentes: [`docs/faq.md`](docs/faq.md).
+- Guion de demo honesto (10–15 min): [`docs/demo_guion.md`](docs/demo_guion.md).
 - Contacto: [`contacto.md`](contacto.md).
 - Política de contacto público: [`docs/politica_contacto_publico.md`](docs/politica_contacto_publico.md).
 - Assets: [`assets/README.md`](assets/README.md).

@@ -33,3 +33,7 @@ No debería. La IA debe apoyar, resumir y proponer. Las acciones importantes req
 ## ¿Se incluyen datos reales?
 
 No. Este repositorio no debe incluir datos reales de clientes, credenciales, dumps completos ni información sensible.
+
+## ¿Dónde está el guion recomendado de demo?
+
+Consulta [`docs/demo_guion.md`](demo_guion.md), que separa visión, avance real, límites operativos y roadmap para una presentación honesta de 10–15 minutos.
