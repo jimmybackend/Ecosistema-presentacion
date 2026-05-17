@@ -7,6 +7,7 @@ No. Este repositorio es informativo y comercial. No debe contener código produc
 ## ¿El sistema ya está terminado?
 
 El repositorio describe la visión completa del producto y su línea de desarrollo modular. Cada módulo puede tener distintos niveles de avance.
+Para estado real por módulo (sin sobrepromesas), consulta la matriz pública en [`docs/estado_modulos.md`](estado_modulos.md).
 
 ## ¿Qué significan los estados públicos?
 

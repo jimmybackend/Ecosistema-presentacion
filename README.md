@@ -37,6 +37,7 @@ Esto aplica especialmente para módulos como **Billing**, **Integrations**, **Su
 ## Cómo leer los estados por módulo
 
 - Revisa la descripción funcional base en [`docs/modulos.md`](docs/modulos.md).
+- Revisa el estado comercial/técnico por módulo en [`docs/estado_modulos.md`](docs/estado_modulos.md).
 - Revisa el comportamiento de proceso en [`docs/flujo_operativo.md`](docs/flujo_operativo.md).
 - Usa [`docs/glosario_estados.md`](docs/glosario_estados.md) como referencia principal de estados y [`docs/faq.md`](docs/faq.md) para preguntas frecuentes.
 - Contrasta con roadmap antes de asumir disponibilidad total.
@@ -45,7 +46,7 @@ Esto aplica especialmente para módulos como **Billing**, **Integrations**, **Su
 
 ### Documentos disponibles en este repositorio
 
-- Estado por módulo (resumen actual): **pendiente de publicación en** `docs/estado_modulos.md`.
+- Estado por módulo (matriz pública): [`docs/estado_modulos.md`](docs/estado_modulos.md).
 - Glosario de estados: [`docs/glosario_estados.md`](docs/glosario_estados.md).
 - Módulos: [`docs/modulos.md`](docs/modulos.md).
 - Flujo operativo: [`docs/flujo_operativo.md`](docs/flujo_operativo.md).
