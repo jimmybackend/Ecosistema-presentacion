@@ -1,5 +1,7 @@
 # Módulos del Ecosistema
 
+> Esta página describe la visión modular del producto. Para conocer el estado real de avance por módulo, consulta [`docs/estado_modulos.md`](estado_modulos.md).
+
 ## Base de datos canónica
 
 La base de datos canónica define las tablas reales del sistema. Es la fuente de verdad para evitar inventar columnas, relaciones o estructuras no existentes.
