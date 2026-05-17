@@ -53,6 +53,7 @@ Esto aplica especialmente para módulos como **Billing**, **Integrations**, **Su
 - Diagramas (índice): **pendiente de publicación en** `docs/diagramas.md`.
 - Preguntas frecuentes: [`docs/faq.md`](docs/faq.md).
 - Contacto: [`contacto.md`](contacto.md).
+- Política de contacto público: [`docs/politica_contacto_publico.md`](docs/politica_contacto_publico.md).
 - Assets: [`assets/README.md`](assets/README.md).
 
 ### Documentos de soporte complementario
