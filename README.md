@@ -1,66 +1,79 @@
-# Ecosistema Esforzados — Información del producto
+# Ecosistema Esforzados — Presentación pública
 
-**Descripción corta del repositorio:**
+**Ecosistema Esforzados** es una iniciativa de plataforma modular para ordenar operación digital empresarial: adquisición de leads, gestión comercial, automatización, reporteo, seguridad y apoyo con IA operativa.
 
-> Presentación pública de Ecosistema Esforzados: plataforma modular para archivos, links inteligentes, landing pages, analytics, CRM, comunicación, automatización, reportes, seguridad e IA operativa, diseñada para empresas que buscan ordenar procesos digitales con control, trazabilidad y crecimiento.
+Este repositorio funciona como **vitrina pública e índice documental**, no como repositorio de código productivo.
 
-## Qué es
+## Alcance de este repositorio
 
-**Ecosistema Esforzados** es una plataforma modular pensada para empresas que necesitan organizar procesos digitales en un solo sistema: archivos, campañas, links inteligentes, landing pages, analítica, CRM, comunicación, automatización, reportes, seguridad e IA operativa.
+Este proyecto contiene documentación pública para explicar:
 
-Este repositorio es una **presentación informativa del producto**. No contiene código productivo, secretos, dumps de base de datos, credenciales ni información privada.
+- visión del producto;
+- módulos funcionales y su propósito;
+- flujo operativo de punta a punta;
+- estado real (demostrable vs roadmap);
+- contacto y material de presentación.
 
-## Objetivo del repositorio
+> **Importante:** aquí **no** se publica código productivo privado, secretos, dumps de base de datos reales, credenciales, ni datos personales reales.
 
-Servir como vitrina clara para empresas, socios o usuarios interesados en conocer:
+## Qué es Ecosistema Esforzados
 
-- Qué problema resuelve el sistema.
-- Qué módulos incluye.
-- Cómo fluye la información.
-- Qué controles de seguridad se contemplan.
-- Hacia dónde evoluciona el producto.
-- Cómo solicitar más información o una demo.
+Es un ecosistema modular orientado a centralizar procesos digitales que normalmente están dispersos:
 
-## Módulos principales
+- campañas, links y landing pages;
+- analítica de comportamiento;
+- CRM y seguimiento comercial;
+- notificaciones y flujos automatizados;
+- reportes operativos;
+- controles de seguridad y privacidad;
+- asistencia de IA con supervisión humana.
 
-- Base de datos canónica
-- Core Admin
-- Autenticación, roles y permisos
-- Ecosistema Drive
-- URL Locator
-- Landing Pages
-- Browser Analytics
-- CRM y campañas
-- Mail / Notifications
-- Workflow
-- SaaS Core
-- Billing
-- Security / Audit / Privacy
-- Integrations
-- Support
-- Reports
-- Jobs / Workers
-- IA Operativa
-- Go-live y onboarding
+## Estado real del producto
 
-## Documentación
+Para evitar sobrepromesas, los módulos y capacidades se leen con estos estados:
 
-Consulta la carpeta [`docs/`](docs/) para conocer la visión, módulos, flujo operativo, seguridad, roadmap y preguntas frecuentes.
+- **Disponible**: capacidad operativa y utilizable dentro del alcance validado.
+- **Parcial**: funcionalidad incompleta; cubre sólo una parte del escenario final.
+- **Read-only**: permite consulta, sin escritura ni cambios persistentes.
+- **Dry-run**: simula ejecución sin impacto real en datos o integraciones.
+- **Controlled**: ejecución real sujeta a permisos, validaciones, flags y gobierno operativo.
+- **Roadmap**: diseño/planeación, sin disponibilidad confirmada para operación completa.
 
-## Material visual
+Esto aplica especialmente para módulos como **Billing**, **Integrations**, **Support**, **Privacy** y **Jobs/Workers**, que deben interpretarse con prudencia según su estado documentado.
 
-Este repositorio no incluye imágenes ni PDF informativo.  
-Las imágenes o carteles comerciales pueden agregarse después en una carpeta `assets/` o en GitHub Pages.
+## Cómo leer los estados por módulo
 
-## Aviso
+- Revisa la descripción funcional base en [`docs/modulos.md`](docs/modulos.md).
+- Revisa el comportamiento de proceso en [`docs/flujo_operativo.md`](docs/flujo_operativo.md).
+- Usa [`docs/faq.md`](docs/faq.md) para interpretar términos como *read-only*, *dry-run* y *controlled*.
+- Contrasta con roadmap antes de asumir disponibilidad total.
 
-Este repositorio es de presentación. No debe contener:
+## Índice de documentos públicos
 
-- `.env`
-- contraseñas
-- tokens
-- API keys
-- dumps SQL reales completos
-- datos personales
-- archivos internos sensibles
-- código productivo privado
+### Documentos disponibles en este repositorio
+
+- Estado por módulo (resumen actual): **pendiente de publicación en** `docs/estado_modulos.md`.
+- Módulos: [`docs/modulos.md`](docs/modulos.md).
+- Flujo operativo: [`docs/flujo_operativo.md`](docs/flujo_operativo.md).
+- Diagramas (índice): **pendiente de publicación en** `docs/diagramas.md`.
+- Preguntas frecuentes: [`docs/faq.md`](docs/faq.md).
+- Contacto: [`contacto.md`](contacto.md).
+- Assets: [`assets/README.md`](assets/README.md).
+
+### Documentos de soporte complementario
+
+- Visión general: [`docs/vision_general.md`](docs/vision_general.md).
+- Seguridad y privacidad: [`docs/seguridad_y_privacidad.md`](docs/seguridad_y_privacidad.md).
+- Roadmap: [`docs/roadmap.md`](docs/roadmap.md).
+- Material visual: [`docs/material_visual.md`](docs/material_visual.md).
+
+## Transparencia de contenidos
+
+Este repositorio de presentación **no debe contener**:
+
+- archivos `.env`;
+- contraseñas, API keys o tokens;
+- volcado SQL real de clientes;
+- datos personales o información interna sensible.
+
+Si detectas contenido sensible, repórtalo por los canales de [`contacto.md`](contacto.md).
