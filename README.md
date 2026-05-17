@@ -53,6 +53,7 @@ Esto aplica especialmente para módulos como **Billing**, **Integrations**, **Su
 - Diagramas: [`docs/diagramas.md`](docs/diagramas.md).
 - Preguntas frecuentes: [`docs/faq.md`](docs/faq.md).
 - Guion de demo honesto (10–15 min): [`docs/demo_guion.md`](docs/demo_guion.md).
+- Checklist final de presentación pública: [`docs/checklist_presentacion_publica.md`](docs/checklist_presentacion_publica.md).
 - Contacto: [`contacto.md`](contacto.md).
 - Política de contacto público: [`docs/politica_contacto_publico.md`](docs/politica_contacto_publico.md).
 - Assets: [`assets/README.md`](assets/README.md).
